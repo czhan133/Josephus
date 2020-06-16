@@ -45,5 +45,5 @@ def eliminate(node, rng):
 			
 
 head_node, rg = get_list();
-print_list(head_node);
+#print_list(head_node);
 eliminate(head_node, rg);
