@@ -43,6 +43,8 @@ def eliminate(node, rng):
 			break;
 		node = node.nxt;
 			
+def does_nothing():
+	print("I do nothing");
 
 head_node, rg = get_list();
 #print_list(head_node);
